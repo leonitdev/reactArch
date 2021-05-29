@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    padding: 0px;
+    margin: 0px;
+    height: auto;
+}
+
+.shadow {
+    background: #FFFFFF;
+    border: 1px solid #EAEAEA;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+
+#root {
+    height: auto;
+}
+
